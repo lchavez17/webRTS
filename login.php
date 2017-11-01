@@ -14,8 +14,7 @@
     <!-- Bootstrap core CSS -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
     <script type="text/javascript" src="js/jquery.js"></script>
-    <script type="text/javascript" src="js/more.js"></script>
-    <script type="text/javascript" src="js/validacionDeCampos.js"></script>
+
     <link href="css/style.css" rel="stylesheet">
 
   </head>
